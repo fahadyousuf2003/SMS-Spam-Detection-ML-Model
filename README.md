@@ -12,7 +12,6 @@ This repository contains a machine learning model for SMS spam detection using L
 - [Results](#results)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
